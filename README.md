@@ -10,9 +10,10 @@ Este projeto transforma arquivos JSON em planilhas Excel (.xlsx), facilitando o 
 
 ## 🛠️ Instalação
 1. Clone o repositório:
-   bash
+   ```bash
    git clone https://github.com/frtvi/json_to_excel.git
    cd json_to_excel
+   ```
 Instale as dependências:
    ```bash
    pip install pandas openpyxl
