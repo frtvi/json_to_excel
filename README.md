@@ -34,8 +34,5 @@ Suponha que você tenha um arquivo data.json com o conteúdo:
 ```
 O script irá gerar um arquivo data.xlsx com o conteúdo estruturado em uma tabela.
 
-## 📝 Licença
-Distribuído sob a Licença MIT. Veja LICENSE para mais detalhes.
-
 ## 🎉 Contribua
 Sugestões e melhorias são bem-vindas!
