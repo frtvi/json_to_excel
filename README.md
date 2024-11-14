@@ -17,7 +17,7 @@ Instale as dependências:
    ```bash
    pip install pandas openpyxl
    ```
-##⚙️ Uso
+## ⚙️ Uso
 Coloque seu arquivo JSON na pasta do projeto.<br>
 No terminal, execute:<br>
    ```bash
