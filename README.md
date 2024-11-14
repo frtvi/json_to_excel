@@ -20,7 +20,6 @@ Instale as dependências:
    ```
 ## ⚙️ Uso
 Coloque o caminho do seu JSON nessa linha:.<br>
-No terminal, execute:<br>
    ```bash
    json_file_path = 'C:/Users/random/data.json'  # ONDE ESTÁ O JSON
    ```
