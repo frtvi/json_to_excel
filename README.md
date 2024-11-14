@@ -19,13 +19,15 @@ Instale as dependências:
    pip install pandas openpyxl
    ```
 ## ⚙️ Uso
-Coloque seu arquivo JSON na pasta do projeto.<br>
+Coloque o caminho do seu JSON nessa linha:.<br>
 No terminal, execute:<br>
    ```bash
-   python json_to_excel.py caminho/para/seu_arquivo.json
+   json_file_path = 'C:/Users/random/data.json'  # ONDE ESTÁ O JSON
    ```
-A planilha Excel será gerada no mesmo diretório.
-
+Depois, coloque o caminho onde deseja salvar o xlsx:
+   ```bash
+   excel_file_path = 'C:/Users/random/data.xlsx'  # ONDE DESEJA SALVAR O EXCEL
+   ```
 ## 📈 Exemplo
 Suponha que você tenha um arquivo data.json com o conteúdo:
 ```[
